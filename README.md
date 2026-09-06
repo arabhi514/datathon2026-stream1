@@ -1,1 +1,1 @@
-# datathon2026-stream1
+# Credit Card Default Prediction Notebook
